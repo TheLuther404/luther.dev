@@ -5,7 +5,7 @@
 
 - 👤 Je m'appele Zackary
 
-- 👤 J'ai 16ans 
+- 👤 J'ai 16ans
 
 - 🗺️ J'habite a l'Île Maurice 🇲🇺
 
@@ -19,7 +19,7 @@
 
                                                                 A  U  T  R  E  
 
-- Mon Steam : https://steamcommunity.com/id/Stan_Woods/
+- Mon Steam : https://steamcommunity.com/76561198339209296/
 
 - Ancien SuperAdmin d'ElyLife (ElysionRP)
 
