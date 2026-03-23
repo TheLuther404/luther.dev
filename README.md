@@ -5,11 +5,11 @@
 
 - 👤 Je m'appele Zackary
 
-- 👤 J'ai 16ans
+- 👤 J'ai 17ans
 
 - 🗺️ J'habite a l'Île Maurice 🇲🇺
 
-- 💻 Mon Discord : zkryy__
+- 💻 Mon Discord : _luther.
 
 - 📫 Comment me contacter ? zackary.est@gmail.com
 
@@ -23,7 +23,7 @@
 
 - Ancien SuperAdmin d'ElyLife (ElysionRP)
 
-- Connais les languages; Lua, HTML, CSS. 
+- Connais les languages; Lua (60%) , HTML (50%) , CSS (40%) , php (45%) , JavaScript (65%), Python (100%)  
 
 
                                                                 F      I     N
