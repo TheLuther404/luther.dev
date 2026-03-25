@@ -23,7 +23,7 @@
 
 - Ancien SuperAdmin d'ElyLife (ElysionRP)
 
-- Connais les languages; Lua (60%) , HTML (50%) , CSS (40%) , php (45%) , JavaScript (65%), Python (100%)  
+- Connais les languages; Lua (60%) , HTML (50%) , CSS (40%) , php (35%) , JavaScript (65%), Python (90%), Shell (100%)  
 
 
                                                                 F      I     N
